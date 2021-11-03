@@ -1,1 +1,2 @@
-# file-demo
+分server端和client端，server端将client端传过来的文件保存到本地，并将基本信息保存到数据库中。
+数据库部署在阿里云服务器上，可直接访问。
